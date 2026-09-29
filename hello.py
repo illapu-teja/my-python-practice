@@ -1,3 +1,3 @@
-prHello 👋")
+print(" 👋")
 print("Everyone")
 print("💬💬💬💬")
